@@ -1,3 +1,4 @@
+#leetcode 141
 class Node:
     def __init__(self, value):
         self.value = value
