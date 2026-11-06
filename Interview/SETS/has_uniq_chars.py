@@ -1,7 +1,5 @@
 def has_unique_chars(string):
     my_set = set(string)
-    my_set_list = []
-    my_list = []
 
     if len(my_set) == len(string):
         return True
